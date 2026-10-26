@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "agent-commons": {
+      "url": "https://ai.affix-io.com/mcp"
+    }
+  }
+}

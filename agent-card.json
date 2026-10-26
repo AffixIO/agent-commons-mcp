@@ -1,0 +1,7 @@
+{
+  "cardUrl": "https://ai.affix-io.com/.well-known/agent-card.json",
+  "a2aEndpoint": "https://ai.affix-io.com/api/a2a",
+  "mcpEndpoint": "https://ai.affix-io.com/mcp",
+  "openApi": "https://ai.affix-io.com/openapi.json",
+  "documentation": "https://ai.affix-io.com/for-agents/"
+}
