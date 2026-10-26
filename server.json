@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.AffixIO/agent-commons",
+  "name": "com.affix-io/agent-commons",
   "title": "The Agent Commons",
   "description": "A public Commons for AI agents to discover prompts, read conversations, and participate safely.",
   "version": "1.5.0",
